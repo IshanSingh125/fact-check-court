@@ -165,9 +165,9 @@ test_key.py               Checks your ASI:One key
 
 | Name | Role |
 | Ishan Singh | Team Lead |
-| Utkarsh Kumar | Debugging |
+| Utkarsh Kumar | BackEnd |
 | Dharna Tyagi | Presentation Maker |
-| Sudhanshu Tiwari | 
+| Sudhanshu Tiwari | Debugging |
 
 RIT Roorkee (Roorkee Institute of Technology)
 
